@@ -18,7 +18,7 @@ alphaCentauri = 28000000;
 %  b = sqrt(c^2-a^2)
 %  a =sqrt(c^2-b^2)
  
- 
+ equalTo = 1>=1 %assigns a boolean value
 
 
 % exp(1)
