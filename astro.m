@@ -19,8 +19,27 @@ alphaCentauri = 28000000;
 %  a =sqrt(c^2-b^2)
  
  equalTo = 1>=1 %assigns a boolean value
+ 
+ %absolute value -> abs
+   abs(-9)
+   
+   %sign function
+  
+   sign(-5)
+   
+   sign(2)
+   
+   12*8
+   
+%% vector
+roots([1 2 -8 2])
+roots([3 0 4 -2])
+roots([5 3 0 0 4 0 3])
+%% GCD
 
-
+gcd(1701,3768);
+%%
+   
 % exp(1)
 % 
 % exp(2)
