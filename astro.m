@@ -37,10 +37,50 @@ roots([3 0 4 -2])
 roots([5 3 0 0 4 0 3])
 %% GCD
 
-gcd(1701,3768);
+gcd(1701,3768)
+
+exp(1)
 %%
    
 % exp(1)
 % 
 % exp(2)
+
+perms([2 3 5 1 7 6 ])
+combnk([2 3 4], 2)
+
+roots([3,5,2])
+%%
+
+vector = [5 2 3 8 10]
+
+
+cool= 0:22;
+
+awesome = 1:3:20
+
+length(vector)
+
+
+k = linspace(1,1000, 1000);
+
+plot(1:7 , zeros(1,7))
+hold on
+plot(vector)
+
+rad = 1:5;
+neat = 1:5;
+
+vector(2:3) = vector(2:3) .* 100
+
+
+mainvec = [vector cool]
+
+vector = [vector 44]
+
+length(vector)
+
+vector(length(vector))
+
+root
 
